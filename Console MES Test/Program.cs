@@ -34,8 +34,6 @@ namespace Console_MES_Test
             }
 
             Console.ReadKey();
-            //Console.WriteLine("Hello World");
-            //Console.ReadKey();
         }
     }
 }
